@@ -2,7 +2,7 @@
 layout: post
 title:  "Running Peakranger Bcp"
 date:   2018-01-19 9:00 -0600
-category: Old Postings
+tags: old-postings
 share: false
 image:
 ---

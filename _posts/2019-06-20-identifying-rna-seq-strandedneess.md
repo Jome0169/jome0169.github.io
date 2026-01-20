@@ -2,7 +2,7 @@
 layout: post
 title: Identifying RNA-Seq strandedneess
 date: 2019-06-20 16:32 -0400
-category: Old Postings
+tags: old-postings
 share: false
 image:
 ---

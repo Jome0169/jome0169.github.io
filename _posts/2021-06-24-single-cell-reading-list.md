@@ -2,7 +2,7 @@
 layout: post
 title: Single Cell Reading List
 date: 2021-06-24 14:34 -0400
-category: Old Postings
+tags: old-postings
 ---
 
 Single cell is a challenging technique to work on. It requires a ton of

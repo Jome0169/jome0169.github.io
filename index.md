@@ -1,10 +1,11 @@
 ---
 layout: page-hero
-title: jekyll-theme-tufte
+title: "Biology from the Command line"
 nav_title: About
-head_title: jekyll-theme-tufte
-subtitle: A modern Jekyll theme based on tufte-css
+head_title: "Biology from the Command line"
+subtitle: ""
 weight: 1
+hero_image: /images/Plants.jpg
 ---
 
 [*jekyll-theme-tufte*](https://github.com/ab/jekyll-theme-tufte) is a Jekyll

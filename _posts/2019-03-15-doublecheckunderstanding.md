@@ -2,7 +2,7 @@
 layout: post
 title: You Probably Don't Understand Strandedness and RNA-Sequencing
 date: 2019-03-15
-category: Old Postings
+tags: old-postings
 ---
 
 Honestly, you probably know less than you think you do. I can't

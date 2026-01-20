@@ -2,7 +2,7 @@
 layout: post
 title:  "Useful Snakemake Questions from StackOverflow"
 date:   2019-08-05 9:00 -0600
-category: Old Postings
+tags: old-postings
 share: false
 image: /images/snake_boy.jpg
 ---

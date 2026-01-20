@@ -1,1 +1,12 @@
-/* Override this file in your site to create any custom site-local CSS */
+.page-hero {
+  background-size: cover;
+  background-position: center;
+  color: white;
+  text-align: center;
+  padding: 100px 20px;
+
+  .header-title, .header-subtitle {
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+  }
+}

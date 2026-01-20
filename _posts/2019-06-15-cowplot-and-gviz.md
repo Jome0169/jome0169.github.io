@@ -2,7 +2,7 @@
 layout: post
 title: "Cowplot and Gviz"
 date:   2019-06-15 9:00 -0600
-category: Old Postings
+tags: old-postings
 share: false
 image:
 ---

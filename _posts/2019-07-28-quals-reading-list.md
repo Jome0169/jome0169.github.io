@@ -2,7 +2,7 @@
 layout: post
 title: "My Reading List"
 date:   2019-09-03 9:00 -0600
-category: Old Postings
+tags: old-postings
 share: false
 image:
 ---
