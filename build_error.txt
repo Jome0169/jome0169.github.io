@@ -1,62 +1,8 @@
-Error:  Logging at level: debug Configuration file:
-/github/workspace/./_config.yml GitHub Pages: github-pages v232 GitHub Pages:
-jekyll v3.10.0 Theme: jekyll-theme-primer Theme source:
-/usr/local/bundle/gems/jekyll-theme-primer-0.6.0 Requiring:
-jekyll-github-metadata Requiring: jekyll-seo-tag Requiring: jekyll-feed
-Requiring: jekyll-coffeescript Requiring: jekyll-commonmark-ghpages Requiring:
-jekyll-gist Requiring: jekyll-github-metadata Requiring: jekyll-paginate
-Requiring: jekyll-relative-links Requiring: jekyll-optional-front-matter
-Requiring: jekyll-readme-index Requiring: jekyll-default-layout Requiring:
-jekyll-titles-from-headings GitHub Metadata: Initializing... Source:
-/github/workspace/. Destination: /github/workspace/./_site Incremental build:
-disabled. Enable with --incremental Generating... EntryFilter: excluded
-/Gemfile EntryFilter: excluded /README.md EntryFilter: excluded /Rakefile
-Reading: _posts/1914-01-01-lorem-ipsum.md Reading:
-_posts/1914-01-02-lorem-ipsum-translated.md Reading:
-_posts/2018-11-10-GettingIntoBioInformatics.md Reading:
-_posts/2019-01-26-running-peakranger.md Reading:
-_posts/2019-03-15-doublecheckunderstanding.md Reading:
-_posts/2019-04-21-my-toolbox.md Reading: _posts/2019-06-15-cowplot-and-gviz.md
-Reading: _posts/2019-06-20-identifying-rna-seq-strandedneess.md Reading:
-_posts/2019-07-28-quals-reading-list.md Reading:
-_posts/2019-08-05-snake-make-tips-trick-links.md Reading:
-_posts/2020-01-29-jin_et_al2015.md Reading:
-_posts/2021-06-24-single-cell-reading-list.md Reading:
-_posts/2022-12-04-code-highlighting.md Reading:
-_posts/2022-12-08-why-a-new-jekyll-theme.md Generating:
-JekyllOptionalFrontMatter::Generator finished in 4.6839e-05 seconds.
-Generating: JekyllReadmeIndex::Generator finished in 8.0792e-05 seconds. Jekyll
-Feed: Generating feed for posts Generating: JekyllFeed::Generator finished in
-0.000644116 seconds. Generating: Jekyll::Paginate::Pagination finished in
-5.501e-06 seconds. Generating: JekyllRelativeLinks::Generator finished in
-0.001703876 seconds. Generating: JekyllDefaultLayout::Generator finished in
-0.001659101 seconds. Generating: JekyllTitlesFromHeadings::Generator finished
-in 2.5368e-05 seconds. Rendering: _posts/1914-01-01-lorem-ipsum.md Pre-Render
-Hooks: _posts/1914-01-01-lorem-ipsum.md Rendering Markup:
-_posts/1914-01-01-lorem-ipsum.md Requiring: kramdown-parser-gfm Rendering
-Layout: _posts/1914-01-01-lorem-ipsum.md Layout source: site Rendering:
-_posts/1914-01-01-lorem-ipsum.md/#excerpt Pre-Render Hooks:
-_posts/1914-01-01-lorem-ipsum.md/#excerpt Rendering Markup:
-_posts/1914-01-01-lorem-ipsum.md/#excerpt GitHub Metadata: Generating for
-Jome0169/jome0169.github.io GitHub Metadata: Calling
-@client.pages("Jome0169/jome0169.github.io", {}) GitHub Metadata: Calling
-@client.organization("Jome0169") GitHub Metadata: Calling
-@client.user("Jome0169") Rendering: _posts/1914-01-02-lorem-ipsum-translated.md
-Pre-Render Hooks: _posts/1914-01-02-lorem-ipsum-translated.md Rendering Markup:
-_posts/1914-01-02-lorem-ipsum-translated.md Rendering Layout:
-_posts/1914-01-02-lorem-ipsum-translated.md Layout source: site Rendering:
-_posts/1914-01-02-lorem-ipsum-translated.md/#excerpt Pre-Render Hooks:
-_posts/1914-01-02-lorem-ipsum-translated.md/#excerpt Rendering Markup:
-_posts/1914-01-02-lorem-ipsum-translated.md/#excerpt Rendering:
-_posts/2018-11-10-GettingIntoBioInformatics.md Pre-Render Hooks:
-_posts/2018-11-10-GettingIntoBioInformatics.md Rendering Markup:
-_posts/2018-11-10-GettingIntoBioInformatics.md Rendering Layout:
-_posts/2018-11-10-GettingIntoBioInformatics.md Layout source: site Rendering:
-_posts/2018-11-10-GettingIntoBioInformatics.md/#excerpt Pre-Render Hooks:
-_posts/2018-11-10-GettingIntoBioInformatics.md/#excerpt Rendering Markup:
-_posts/2018-11-10-GettingIntoBioInformatics.md/#excerpt Rendering:
-_posts/2019-01-26-running-peakranger.md Pre-Render Hooks:
-_posts/2019-01-26-running-peakranger.md Rendering Markup:
-_posts/2019-01-26-running-peakranger.md Rendering Layout:
-_posts/2019-01-26-running-peakranger.md Layout source: site Rendering:
-_posts/2019-01-26-running-peakranger.md/
+
+Annotations
+1 error and 1 warning
+build
+ Logging at level: debug Configuration file: /github/workspace/./_config.yml Theme: jekyll-theme-tufte github-pages 232 | Error: The jekyll-theme-tufte theme could not be found. 
+build
+The github-pages gem can't satisfy your Gemfile's dependencies. If you want to use a different Jekyll version or need additional dependencies, consider building Jekyll site with GitHub Actions: https://jekyllrb.com/docs/continuous-integration/github-actions/
+
