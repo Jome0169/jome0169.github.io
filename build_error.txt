@@ -1,5 +1,0 @@
-
-build
-Logging at level: debug Configuration file: /github/workspace/./_config.yml Theme: jekyll-theme-tufte github-pages 232 | Error: The jekyll-theme-tufte theme could not be found.
-build
-The github-pages gem can't satisfy your Gemfile's dependencies. If you want to use a different Jekyll version or need additional dependencies, consider building Jekyll site with GitHub Actions: https://jekyllrb.com/docs/continuous-integration/github-actions/
