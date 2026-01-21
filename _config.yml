@@ -6,6 +6,7 @@ subtitle: A Jekyll theme based on tufte-css
 author: Pablo Mendieta PhD
 description: A Jekyll theme based on tufte-css
 show_author: true
+theme: jekyll-theme-tufte
 markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 highlighter: rouge
@@ -16,3 +17,4 @@ excerpt_separator: <!--more-->
 exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md']
 plugins:
   - jekyll-feed
+  - jekyll-theme-tufte
