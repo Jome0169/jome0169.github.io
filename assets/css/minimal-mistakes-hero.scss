@@ -58,8 +58,8 @@ $type-size-2: 1.875em !default;
     position: relative;
     margin-bottom: 2em;
     padding: 4em 0;
-    height: 700px; /* Set height to 700px to make header larger */
-    min-height: 700px; /* Ensure a minimum height of 700px */
+    height: 175px; /* Set height to 175px to make header smaller */
+    min-height: 175px; /* Ensure a minimum height of 175px */
     @include clearfix;
     background-size: cover;
     background-repeat: no-repeat;
