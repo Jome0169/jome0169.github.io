@@ -1,1 +1,0 @@
-../lib/jekyll-theme-tufte/margin_figure.rb
