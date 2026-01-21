@@ -1,0 +1,96 @@
+---
+---
+
+/* Breakpoints */
+$small: 600px !default;
+$medium: 768px !default;
+$medium-wide: 900px !default;
+$large: 1024px !default;
+$x-large: 1280px !default;
+
+/* Gutters */
+$gutter: 1em !default;
+
+/* Type Sizes */
+$type-size-1: 2.25em !default;
+$type-size-2: 1.875em !default;
+
+/* Clearfix */
+@mixin clearfix() {
+  &::after {
+    display: block;
+    content: "";
+    clear: both;
+  }
+}
+
+/* Media Queries */
+@mixin breakpoint($point) {
+  @if $point == $x-large {
+    @media (min-width: $x-large) {
+      @content;
+    }
+  } @else if $point == $large {
+    @media (min-width: $large) {
+      @content;
+    }
+  } @else if $point == $medium-wide {
+    @media (min-width: $medium-wide) {
+      @content;
+    }
+  } @else if $point == $medium {
+    @media (min-width: $medium) {
+      @content;
+    }
+  } @else if $point == $small {
+    @media (min-width: $small) {
+      @content;
+    }
+  }
+}
+
+.page__hero {
+  position: relative;
+  margin-bottom: 2em;
+  @include clearfix;
+
+  &--overlay {
+    position: relative;
+    margin-bottom: 2em;
+    padding: 4em 0;
+    @include clearfix;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+    a {
+      color: #fff;
+    }
+
+    .wrapper {
+      padding-right: $gutter;
+      padding-left: $gutter;
+
+      @include breakpoint($x-large) {
+        max-width: $x-large;
+        margin-right: auto;
+        margin-left: auto;
+      }
+    }
+
+    .page__title,
+    .page__lead,
+    .page__meta {
+      color: #fff;
+      text-shadow: 1px 1px 4px rgba(#000, 0.5);
+    }
+
+    .page__title {
+      font-size: $type-size-2;
+
+      @include breakpoint($small) {
+        font-size: $type-size-1;
+      }
+    }
+  }
+}

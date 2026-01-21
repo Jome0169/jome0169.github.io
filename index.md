@@ -5,7 +5,9 @@ nav_title: About
 head_title: "Biology from the Command line"
 subtitle: ""
 weight: 1
-hero_image: /images/Plants.jpg
+header:
+  overlay_image: /images/Plants.jpg
+  overlay_filter: 0.5
 ---
 
 [*jekyll-theme-tufte*](https://github.com/ab/jekyll-theme-tufte) is a Jekyll
