@@ -47,6 +47,9 @@ GEM
       jekyll (>= 3.7, < 5.0)
     jekyll-sass-converter (3.1.0)
       sass-embedded (~> 1.75)
+    jekyll-theme-tufte (0.3.0)
+      jekyll (~> 4.3)
+      jekyll-feed (~> 0.17)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     json (2.18.0)
@@ -87,6 +90,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 4.3)
   jekyll-feed (~> 0.17)
+  jekyll-theme-tufte
 
 BUNDLED WITH
    2.4.10
