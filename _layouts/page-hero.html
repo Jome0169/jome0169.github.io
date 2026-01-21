@@ -1,0 +1,14 @@
+---
+layout: default
+---
+{% if page.hero_image %}
+  <figure class="fullwidth">
+    <img src="{{ page.hero_image | relative_url }}" alt="{{ page.title }} hero image">
+  </figure>
+{% endif %}
+
+<h1 class="header-title">{{ page.title }}</h1>
+<h2 class="header-subtitle">{{ page.subtitle }}</h2>
+<p class="margin-maker"/>
+
+{{ content }}
