@@ -1,1 +1,1 @@
-../lib/jekyll-theme-tufte/mathjaxtag.rb
+../vendor/bundle/ruby/3.2.0/gems/jekyll-theme-tufte-0.3.0/lib/jekyll-theme-tufte/mathjaxtag.rb
