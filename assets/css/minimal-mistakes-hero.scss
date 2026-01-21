@@ -57,7 +57,9 @@ $type-size-2: 1.875em !default;
   &--overlay {
     position: relative;
     margin-bottom: 2em;
-    padding: 4em 0;
+    padding: 10em 0; /* Increased padding for more height */
+    height: 50vh; /* Make it take up 50% of the viewport height */
+    min-height: 400px; /* Ensure a minimum height */
     @include clearfix;
     background-size: cover;
     background-repeat: no-repeat;
