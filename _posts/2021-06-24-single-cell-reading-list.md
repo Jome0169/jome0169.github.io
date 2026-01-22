@@ -25,6 +25,6 @@ Deeper Dive (Worth the read): https://pair-code.github.io/understanding-umap/sup
 Umap vs Tsne (There is only one right answer): https://towardsdatascience.com/tsne-vs-umap-global-structure-4d8045acba17
 
 ## Clustering
-TFIID: http://andrewjohnhill.com/blog/2019/05/06/dimensionality-reduction-for-scatac-data/
+TFIID: https://andrewjohnhill.com/blog/2019/05/06/dimensionality-reduction-for-scatac-data/
 
 

@@ -15,7 +15,7 @@ of interest.
 
 In order to identify the strand orientation of RNA NGS libraries I
 downloaded from SRA I stumpbled upon this excellent little tool called
-`infer_experiment.py` from the [RseqC](http://rseqc.sourceforge.net). It's
+`infer_experiment.py` from the [RseqC](https://rseqc.sourceforge.net). It's
 a great resource for this kind of thing. `infer_experiment.py` takes in a bam
 file (aligned to your genome) and a BED file of genes with known strandedness.
 
@@ -49,5 +49,5 @@ following links extemely useful
 
 <https://chipster.csc.fi/manual/library-type-summary.html>
 
-<http://onetipperday.sterding.com/2012/07/how-to-tell-which-library-type-to-use.html>
+
 

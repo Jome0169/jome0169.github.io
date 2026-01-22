@@ -28,7 +28,7 @@ learning to interact with data on your computer, and learning that you can
 divorce yourself from programs such as EXcel and be totally fine. You can thinkg og command line as a simplified and stripped back method in which you can access and interact with your computer. Instead of using a [graphical user interface](https://en.wikipedia.org/wiki/Graphical_user_interface)(GUI for short), you'll be working with your computer on a more basal level of only text commands. While this may appear intimidating at first, the pay offs of learning it thoroughly have massive returns on your productivity. 
 
 To learn the ins and outs of command line there are two places I would
-recommend starting. If you're technophobic and a little unsure of yourself i would recommend [Code Academys command line course](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwjLgLKUia_fAhUln-AKHepWA58QFjAAegQIAxAC&url=https%3A%2F%2Fwww.codecademy.com%2Flearn%2Flearn-the-command-line&usg=AOvVaw2W4SXDZOVLJGgMMuEIe6j-). Code Academy offers users the opprotunity to begin learning the basics of using command lines on a computer without the need to worry about "messing up" your computer. However, while this might seem great, at some point you will have to pivot to actually using command line on your personal system. For this, I think the best turtorial I have found is http://www.ee.surrey.ac.uk/Teaching/Unix/ Basic
+recommend starting. If you're technophobic and a little unsure of yourself i would recommend [Code Academys command line course](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwjLgLKUia_fAhUln-AKHepWA58QFjAAegQIAxAC&url=https%3A%2F%2Fwww.codecademy.com%2Flearn%2Flearn-the-command-line&usg=AOvVaw2W4SXDZOVLJGgMMuEIe6j-). Code Academy offers users the opprotunity to begin learning the basics of using command lines on a computer without the need to worry about "messing up" your computer. However, while this might seem great, at some point you will have to pivot to actually using command line on your personal system. For this, I think the best turtorial I have found is https://www.ee.surrey.ac.uk/Teaching/Unix/ Basic
 commands and excercises. Worth your time. It covers the very fundamentals much
 like code academy, but makes the transition to your own machine easy and
 intuitive.
@@ -79,7 +79,7 @@ Should i put this fasta file into a string, or a dictionary, and what are the
 benefits?""
 
 If you're looking for immediate practice as well, check our
-http://rosalind.info . Rosalind is an awesome sight named after one of the
+https://rosalind.info . Rosalind is an awesome sight named after one of the
 discoverers of DNA (Rosalind Franklin), and offers some excellent practice
 problems that allow you to pivot your basic python understanding to solving
 basic bioinformatics task. These probelms scale quickly, so be ready for a
